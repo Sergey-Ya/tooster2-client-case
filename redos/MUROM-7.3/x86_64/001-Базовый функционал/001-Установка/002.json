@@ -1,5 +1,5 @@
 {
-    "time": 1678314550842,
+    "time": 1678314573291,
     "blocks": [
         {
             "id": "Pl50zvG2yc",
@@ -14,6 +14,19 @@
             "type": "paragraph",
             "data": {
                 "text": "test"
+            }
+        },
+        {
+            "id": "Rp52UgN7RQ",
+            "type": "image",
+            "data": {
+                "file": {
+                    "url": "/media/cases/redos/MUROM-7.3/x86_64/001-Базовый функционал/001-Установка/images/002_1678314571.jpg"
+                },
+                "caption": "",
+                "withBorder": false,
+                "stretched": false,
+                "withBackground": false
             }
         }
     ],

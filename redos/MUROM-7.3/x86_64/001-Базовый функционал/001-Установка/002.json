@@ -1,5 +1,5 @@
 {
-    "time": 1678315229426,
+    "time": 1678315254990,
     "blocks": [
         {
             "id": "Pl50zvG2yc",
@@ -17,11 +17,11 @@
             }
         },
         {
-            "id": "jYBofQcmG7",
+            "id": "aRrxbzqIfF",
             "type": "image",
             "data": {
                 "file": {
-                    "url": "/media/cases/redos/MUROM-7.3/x86_64/001-Базовый функционал/001-Установка/images/002_1678315227.jpg"
+                    "url": "/media/cases/redos/MUROM-7.3/x86_64/001-Базовый функционал/001-Установка/images/002_1678315253.jpg"
                 },
                 "caption": "",
                 "withBorder": false,

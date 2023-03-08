@@ -1,5 +1,5 @@
 {
-    "time": 1678315302957,
+    "time": 1678315335339,
     "blocks": [
         {
             "id": "Pl50zvG2yc",
@@ -14,32 +14,6 @@
             "type": "paragraph",
             "data": {
                 "text": "test"
-            }
-        },
-        {
-            "id": "lXtlN9-DIh",
-            "type": "image",
-            "data": {
-                "file": {
-                    "url": "/media/cases/redos/MUROM-7.3/x86_64/001-Базовый функционал/001-Установка/images/002_1678315294.jpg"
-                },
-                "caption": "",
-                "withBorder": false,
-                "stretched": false,
-                "withBackground": false
-            }
-        },
-        {
-            "id": "aRrxbzqIfF",
-            "type": "image",
-            "data": {
-                "file": {
-                    "url": "/media/cases/redos/MUROM-7.3/x86_64/001-Базовый функционал/001-Установка/images/002_1678315253.jpg"
-                },
-                "caption": "",
-                "withBorder": false,
-                "stretched": false,
-                "withBackground": false
             }
         }
     ],
